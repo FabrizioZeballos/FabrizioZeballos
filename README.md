@@ -45,7 +45,7 @@
 
 <br>
 
-[![](https://skillicons.dev/icons?i=nodejs,express,nestjs,react,redux,bootstrap&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,nodejs,express,nestjs&theme=dark)](https://skillicons.dev)
 
 <br>
 
