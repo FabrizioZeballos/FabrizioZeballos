@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi there, I'm Fabrizio Zeballos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">A</p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer,;Continuous+learner,;Knowledge+Seeker;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer,;Backend+Specialist,;Knowledge+Seeker;"></a>
 </p>
 
 
@@ -18,8 +18,8 @@
 <br>
 
 - Currently working as a Programming Teaching Assistant at Henry.
-- I excel in crafting intuitive user interfaces and developing seamless user experiences using frontend technologies.
-- My expertise extends to building robust APIs and fine-tuning database efficiency.
+- My expertise lies in architecting robust APIs, optimizing database efficiency, and ensuring scalable backend solutions for superior performance.
+- Proficient in crafting intuitive user interfaces and seamless user experiences by leveraging frontend technologies.
 - Currently open to new job opportunities.
 
 <br><br>
@@ -45,7 +45,7 @@
 
 <br>
 
-[![](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,nodejs,express,nestjs&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nestjs,express,nodejs,react,redux,bootstrap,tailwind&theme=dark)](https://skillicons.dev)
 
 <br>
 
